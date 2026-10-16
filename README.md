@@ -2,7 +2,7 @@
 
 Клиент для безопасного подключения. Windows, macOS и Android.
 
-Сайт и личный кабинет: **[cloudmaskvnp.site](https://cloudmaskvnp.site)**
+Сайт и личный кабинет: **[cloudmask.site](https://cloudmask.site)**
 Поддержка: **[@CloudMask_bot](https://t.me/CloudMask_bot)**
 
 ---
@@ -79,13 +79,13 @@
 **macOS:** 10.15 Catalina и новее.
 **Android:** 5.0 и новее.
 **Аккаунт:** обязателен — зарегистрироваться можно на
-[cloudmaskvnp.site](https://cloudmaskvnp.site).
+[cloudmask.site](https://cloudmask.site).
 
 ---
 
 ## Вопросы
 
-- **Забыл пароль** — восстановление на [cloudmaskvnp.site](https://cloudmaskvnp.site)
+- **Забыл пароль** — восстановление на [cloudmask.site](https://cloudmask.site)
 - **Не подключается** — нажмите значок спидометра, приложение проверит серверы
   и подберёт рабочий
 - **Всё остальное** — [@CloudMask_bot](https://t.me/CloudMask_bot)
